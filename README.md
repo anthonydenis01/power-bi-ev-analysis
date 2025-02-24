@@ -24,5 +24,7 @@ This project analyzes trends in the **electric vehicle (EV) market** using Power
 - **Excel/CSV** for data processing.
 - **PowerPoint** for insights presentation.
 
----
-✅ **Next Steps**: Future updates will include machine learning forecasts for EV trends.
+## 📂 Dataset
+🚀 Due to file size limits, the dataset is available here:  
+👉 [Download EV Sales Data]
+https://drive.google.com/file/d/1nB8nNABD4nyypKqAiEFgSKuXASv3zBdo/view?usp=sharing
